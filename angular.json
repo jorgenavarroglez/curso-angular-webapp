@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "curso-angular-webapp"
+    }
+  },
+  "defaultProject": "curso-angular-webapp",
+  "cli": {
+    "analytics": false
+  }
 }
